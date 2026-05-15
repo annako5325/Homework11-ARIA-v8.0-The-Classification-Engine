@@ -1,0 +1,11 @@
+                precision    recall  f1-score   support
+
+         Water     1.0000    1.0000    1.0000       696
+        Forest     0.9982    0.9982    0.9982       563
+   Agriculture     0.8136    0.9412    0.8727        51
+Bare/Landslide     0.9811    0.9123    0.9455        57
+      Built-up     0.9032    0.8000    0.8485        35
+
+      accuracy                         0.9886      1402
+     macro avg     0.9392    0.9303    0.9330      1402
+  weighted avg     0.9893    0.9886    0.9887      1402

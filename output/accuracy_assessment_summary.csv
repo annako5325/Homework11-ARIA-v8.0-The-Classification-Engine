@@ -1,0 +1,7 @@
+﻿Metric,Value
+Training Accuracy,1.0
+Test Accuracy,0.9885877318116976
+OOB Accuracy,0.9834076717216771
+Macro F1,0.9329780935464772
+Weighted F1,0.988656897073445
+Weighted-Macro Gap,0.055678803526967746

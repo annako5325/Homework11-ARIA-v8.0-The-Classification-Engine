@@ -1,0 +1,31 @@
+
+=== AI Disaster Summary ===
+
+Study Area:
+Taroko coastal mountain region, Taiwan
+
+Land Cover Statistics:
+- Forest: 49.5%
+- Water: 35.1%
+- Agriculture: 7.5%
+- Built-up: 6.3%
+- Bare/Landslide: 1.6%
+
+Bare/Landslide Area:
+- 1006.4 hectares
+
+Random Forest Classification Accuracy:
+- Training Accuracy: 1.0000
+- Test Accuracy: 0.9886
+- OOB Accuracy: 0.9834
+
+External Validation Against SWCB Inventory:
+- Recall: 0.0370
+- Precision: 0.0035
+- IoU: 0.0032
+
+Key Findings:
+- Internal validation accuracy is high.
+- External overlap with SWCB inventory is low.
+- Spectral confusion exists between landslides and exposed surfaces.
+- Many false positives occur along riverbeds and alluvial fans.

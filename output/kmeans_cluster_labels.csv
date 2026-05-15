@@ -1,0 +1,6 @@
+﻿Cluster_ID,Suggested_Label,Interpretation
+0,Forest,High NIR reflectance indicates healthy vegetation.
+1,Water,Low NIR and SWIR reflectance consistent with water.
+2,Bare soil / urban mix,High reflectance across visible and SWIR bands.
+3,Dense vegetation shadow,Vegetation-like spectrum but darker overall due to terrain shadow.
+4,Agriculture / mixed vegetation,Intermediate vegetation reflectance mixed with soil background.

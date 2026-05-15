@@ -1,0 +1,6 @@
+﻿Class_ID,Class_Name,Class_Name_ZH,Pixel_Count,Quantity_Status
+0,Water,水體,3477,充足
+1,Forest,森林,2812,充足
+2,Agriculture,農地,255,合格
+3,Bare/Landslide,裸地/崩塌,285,合格
+4,Built-up,建物,178,合格
